@@ -11,19 +11,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237656520674"
+global.ownernomer = "237698177128"
 global.ownername = "KgTech👽"
 global.ytname = "YT: Kermhacktools"
 global.socialm = "GitHub: Kgtech-cmt"
 global.location = "India, UP, rampur"
 
-global.ownernumber = '237656520674'  //creator number
+global.ownernumber = '23769177128'  //creator number
 global.ownername = 'KgTech👽' //owner name
 global.botname = 'KERM-BUG-BOT' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄KgTech\n\nContact: +237656520674'
+global.author = '🦄KgTech\n\nContact: +237698177128'
 
 //console view/theme
 global.themeemoji = '🪀'
